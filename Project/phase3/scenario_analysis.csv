@@ -1,0 +1,6 @@
+Scenario,Savings,Price,Rate,Decision
+"Low savings, cheap market",$10k,$60k,4%,RENT
+"Medium savings, normal market",$50k,$100k,6%,BUY
+"High savings, expensive market",$80k,$150k,8%,BUY
+"High savings, low rates",$70k,$100k,3%,BUY
+"Low savings, high rates",$20k,$100k,10%,RENT
